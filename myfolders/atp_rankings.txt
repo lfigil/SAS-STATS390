@@ -1,0 +1,20 @@
+Roger Federer 0.84375
+Marin Cilic 0.737704918
+David Ferrer 0.7213114754
+Fabio Fognini 0.6724137931
+Tomas Berdych 0.7321428571
+Roberto Bautista Agut 0.6666666667
+Feliciano Lopez 0.6111111111
+Philipp Kohlschreiber 0.6111111111
+Grigor Dimitrov 0.7547169811
+Andy Murray 0.7169811321
+Rafael Nadal 0.8461538462
+Ernests Gulbis 0.6923076923
+Kevin Anderson 0.6346153846
+Tommy Robredo 0.6153846154
+Ivo Karlovic 0.5576923077
+Novak Djokovic 0.862745098
+Kei Nishikori 0.8
+Milos Raonic 0.74
+John Isner 0.6734693878
+Lukas Rosol 0.5714285714
