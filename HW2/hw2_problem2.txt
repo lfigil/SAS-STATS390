@@ -1,0 +1,20 @@
+We learned four kinds of combination. Now let us combine the above data sets.
+In the following step, please do not create the data sets again.
+Just use them.
+
+1) Which of them do not require a sorting procedure before the combination?
+Do these kinds of combination.
+
+Concatenating and one-to-one merge do not require the sorting procedure before the combination.
+
+2) Which of them do require a sorting procedure before the combination?
+Do these kinds of combination.
+
+Interleaving and match merge require the sorting procedure before the combination.
+
+3) Do one of the combinations in 1) again.
+Compare the result with that in 1).
+
+Report and explain your findings. Answer the questions and also hand in your code and output for each of the questions.
+
+By using concatenation, we can see that the dataset prints all the elements in the first set followed by the elements of the second dataset. This does not give us complete representation of both datasets as a whole, therefore; we need to use another combination method. Since ID a common feature in both datasets, we proceed to sort both datasets by ID, then we apply match merge by ID. This combination results in a more concise representation of both datasets.
